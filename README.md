@@ -1,6 +1,6 @@
 # ZSH Configs
 
-My config files for ZSH
+My config files for ZSH.
 
 Files belong in the following filesystem locations:
 
